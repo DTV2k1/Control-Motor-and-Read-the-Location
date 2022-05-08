@@ -1,1 +1,1 @@
-# Control-Motor-and-Read-the-Location
+# Control-Encoder-Motor-and-Read-the-Location
